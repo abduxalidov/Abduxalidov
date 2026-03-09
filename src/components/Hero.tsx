@@ -54,4 +54,4 @@ export const Hero = () => {
       </motion.div>
     </section>
   );
-};
+}
