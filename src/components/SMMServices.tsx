@@ -4,20 +4,20 @@ const smmData = [
   {
     platform: "Telegram",
     services: [
-      { name: "Obunachi (Garantiyasiz)", prices: ["1000 ta - 20,000 so'm", "5000 ta - 90,000 so'm", "10,000 ta - 170,000 so'm"] },
-      { name: "Obunachi (Garantli 30 kun)", prices: ["1000 ta - 50,000 so'm", "5000 ta - 240,000 so'm", "10,000 ta - 450,000 so'm"] },
-      { name: "Post ko'rish (Prosmotr)", prices: ["1000 ta - 3,000 so'm", "10,000 ta - 25,000 so'm", "100,000 ta - 200,000 so'm"] },
-      { name: "Reaksiya (Like)", prices: ["100 ta - 5,000 so'm", "500 ta - 20,000 so'm", "1000 ta - 35,000 so'm"] },
-      { name: "Telegram Premium (1 oy)", prices: ["1 ta akkaunt - 60,000 so'm"], highlight: true },
-      { name: "Telegram Stars", prices: ["50 Stars - 30,000 so'm", "100 Stars - 55,000 so'm", "500 Stars - 250,000 so'm"], highlight: true },
+      { name: "Obunachi (Garantiyasiz)", prices: ["1000 ta - 4,000 so'm", "5000 ta - 18,000 so'm", "10,000 ta - 35,000 so'm"] },
+      { name: "Obunachi (Garantli 180 kun)", prices: ["1000 ta - 20,000 so'm", "5000 ta - 95,000 so'm", "10,000 ta - 190,000 so'm"] },
+      { name: "Post ko'rish (Prosmotr)", prices: ["1000 ta - 500 so'm", "10,000 ta - 5,000 so'm", "100,000 ta - 40,000 so'm"] },
+      { name: "Reaksiya (Like)", prices: ["1000 ta - 2000 so'm", "5000 ta - 10,000 so'm", "10000 ta - 20,000 so'm"] },
+      { name: "Telegram Premium (1 oy)", prices: ["1 ta akkaunt - 45,000 so'm", "3 oylik - 165,000 so'm", "6 oylik - 230,000so'm","1 yillik - 300,000 so'm"], highlight: true },
+      { name: "Telegram Stars", prices: ["50 Stars - 12,000 so'm", "100 Stars - 24,000 so'm", "500 Stars - 120,000 so'm"], highlight: true },
     ],
   },
   {
     platform: "Instagram",
     services: [
-      { name: "Obunachi (Garantiyasiz)", prices: ["1000 ta - 25,000 so'm", "5000 ta - 110,000 so'm", "10,000 ta - 200,000 so'm"] },
-      { name: "Like", prices: ["1000 ta - 10,000 so'm", "5000 ta - 45,000 so'm", "10,000 ta - 80,000 so'm"] },
-      { name: "Ko'rish (Views)", prices: ["1000 ta - 5,000 so'm", "10,000 ta - 40,000 so'm", "100,000 ta - 350,000 so'm"] },
+      { name: "Obunachi (Garantiyalik)", prices: ["1000 ta - 22,000 so'm", "5000 ta - 110,000 so'm", "10,000 ta - 210,000 so'm"] },
+      { name: "Like", prices: ["1000 ta - 5,000 so'm", "5000 ta - 22,000 so'm", "10,000 ta - 45,000 so'm"] },
+      { name: "Ko'rish (Views)", prices: ["10,000 ta - 5,000 so'm", "100,000 ta - 20,000 so'm", "1,000,000 ta - 50,000 so'm"] },
     ],
   },
 ];
